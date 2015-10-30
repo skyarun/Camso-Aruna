@@ -1,2 +1,2 @@
 # Camso-Aruna
-My first repository on GitHub
+My first Test repository on GitHub for the testixng
